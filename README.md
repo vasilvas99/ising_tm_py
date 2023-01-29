@@ -5,6 +5,7 @@
 
 1. Download the lastest build:
 
+https://nightly.link/vasilvas99/ising_tm_py/workflows/CI/main/wheels.zip
 
 2. Unzip the wheels.zip archive
 
